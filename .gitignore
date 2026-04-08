@@ -1,0 +1,10 @@
+.next/
+node_modules/
+out/
+dist/
+.env.local
+.env
+.DS_Store
+Thumbs.db
+public/uploads/*
+!public/uploads/.gitkeep
